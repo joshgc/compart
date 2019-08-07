@@ -1,0 +1,8 @@
+DO NOT USE
+trainingInput:
+  scaleTier: CUSTOM
+  masterType: complex_model_m
+  workerType: complex_model_m
+  parameterServerType: large_model
+  workerCount: 9
+  parameterServerCount: 3
