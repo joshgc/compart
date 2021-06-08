@@ -6,7 +6,7 @@ REQUIRED_PACKAGES = [
     'matplotlib==2.2.3',
     'scipy==1.1.0',
     'sk-video==1.1.10',
-    'Pillow==5.3.0',
+    'Pillow==8.2.0',
 ]
 
 setup(
