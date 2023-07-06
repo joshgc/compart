@@ -4,7 +4,7 @@ from setuptools import setup
 REQUIRED_PACKAGES = [
     'numpy>=1.13',
     'matplotlib==2.2.3',
-    'scipy==1.1.0',
+    'scipy==1.10.0',
     'sk-video==1.1.10',
     'Pillow==5.3.0',
 ]
